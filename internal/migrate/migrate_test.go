@@ -141,7 +141,8 @@ func TestUnifiedHandlesMissingNewlineAndSpaces(t *testing.T) {
 	if err := os.WriteFile(filepath.Join(dir, name), []byte(before), 0600); err != nil {
 		t.Fatal(err)
 	}
-	cmd := exec.Command("git", "apply", "-")
+	// Compare patch bytes independently of the host Git line-ending policy.
+	cmd := exec.Command("git", "-c", "core.autocrlf=false", "apply", "-")
 	cmd.Dir = dir
 	diff, err := unified(name, before, after)
 	if err != nil {
