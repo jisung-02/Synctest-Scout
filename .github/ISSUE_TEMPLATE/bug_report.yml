@@ -1,0 +1,36 @@
+name: Bug report
+description: Report a reproducible problem with scanning, rewriting, or the CLI.
+title: "bug: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        For vulnerabilities, follow SECURITY.md instead of posting exploit details here.
+        Remove private code, credentials, and sensitive logs from your report.
+  - type: input
+    id: version
+    attributes:
+      label: Version and environment
+      description: Output of synctest-scout version, Go version, and OS/architecture.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Minimal reproduction
+      description: Include the command, a small Go test, relevant build tags, and module version.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+      description: Include the diagnostic or generated diff and the exit status.
+    validations:
+      required: true

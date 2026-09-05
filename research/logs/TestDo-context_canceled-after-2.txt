@@ -1,0 +1,161 @@
+=== RUN   TestDo
+=== PAUSE TestDo
+=== CONT  TestDo
+=== RUN   TestDo/context_canceled
+=== PAUSE TestDo/context_canceled
+=== CONT  TestDo/context_canceled
+--- PASS: TestDo (0.00s)
+    --- PASS: TestDo/context_canceled (0.00s)
+=== RUN   TestDo
+=== PAUSE TestDo
+=== CONT  TestDo
+=== RUN   TestDo/context_canceled
+=== PAUSE TestDo/context_canceled
+=== CONT  TestDo/context_canceled
+--- PASS: TestDo (0.00s)
+    --- PASS: TestDo/context_canceled (0.00s)
+=== RUN   TestDo
+=== PAUSE TestDo
+=== CONT  TestDo
+=== RUN   TestDo/context_canceled
+=== PAUSE TestDo/context_canceled
+=== CONT  TestDo/context_canceled
+--- PASS: TestDo (0.00s)
+    --- PASS: TestDo/context_canceled (0.00s)
+=== RUN   TestDo
+=== PAUSE TestDo
+=== CONT  TestDo
+=== RUN   TestDo/context_canceled
+=== PAUSE TestDo/context_canceled
+=== CONT  TestDo/context_canceled
+--- PASS: TestDo (0.00s)
+    --- PASS: TestDo/context_canceled (0.00s)
+=== RUN   TestDo
+=== PAUSE TestDo
+=== CONT  TestDo
+=== RUN   TestDo/context_canceled
+=== PAUSE TestDo/context_canceled
+=== CONT  TestDo/context_canceled
+--- PASS: TestDo (0.00s)
+    --- PASS: TestDo/context_canceled (0.00s)
+=== RUN   TestDo
+=== PAUSE TestDo
+=== CONT  TestDo
+=== RUN   TestDo/context_canceled
+=== PAUSE TestDo/context_canceled
+=== CONT  TestDo/context_canceled
+--- PASS: TestDo (0.00s)
+    --- PASS: TestDo/context_canceled (0.00s)
+=== RUN   TestDo
+=== PAUSE TestDo
+=== CONT  TestDo
+=== RUN   TestDo/context_canceled
+=== PAUSE TestDo/context_canceled
+=== CONT  TestDo/context_canceled
+--- PASS: TestDo (0.00s)
+    --- PASS: TestDo/context_canceled (0.00s)
+=== RUN   TestDo
+=== PAUSE TestDo
+=== CONT  TestDo
+=== RUN   TestDo/context_canceled
+=== PAUSE TestDo/context_canceled
+=== CONT  TestDo/context_canceled
+--- PASS: TestDo (0.00s)
+    --- PASS: TestDo/context_canceled (0.00s)
+=== RUN   TestDo
+=== PAUSE TestDo
+=== CONT  TestDo
+=== RUN   TestDo/context_canceled
+=== PAUSE TestDo/context_canceled
+=== CONT  TestDo/context_canceled
+--- PASS: TestDo (0.00s)
+    --- PASS: TestDo/context_canceled (0.00s)
+=== RUN   TestDo
+=== PAUSE TestDo
+=== CONT  TestDo
+=== RUN   TestDo/context_canceled
+=== PAUSE TestDo/context_canceled
+=== CONT  TestDo/context_canceled
+--- PASS: TestDo (0.00s)
+    --- PASS: TestDo/context_canceled (0.00s)
+=== RUN   TestDo
+=== PAUSE TestDo
+=== CONT  TestDo
+=== RUN   TestDo/context_canceled
+=== PAUSE TestDo/context_canceled
+=== CONT  TestDo/context_canceled
+--- PASS: TestDo (0.00s)
+    --- PASS: TestDo/context_canceled (0.00s)
+=== RUN   TestDo
+=== PAUSE TestDo
+=== CONT  TestDo
+=== RUN   TestDo/context_canceled
+=== PAUSE TestDo/context_canceled
+=== CONT  TestDo/context_canceled
+--- PASS: TestDo (0.00s)
+    --- PASS: TestDo/context_canceled (0.00s)
+=== RUN   TestDo
+=== PAUSE TestDo
+=== CONT  TestDo
+=== RUN   TestDo/context_canceled
+=== PAUSE TestDo/context_canceled
+=== CONT  TestDo/context_canceled
+--- PASS: TestDo (0.00s)
+    --- PASS: TestDo/context_canceled (0.00s)
+=== RUN   TestDo
+=== PAUSE TestDo
+=== CONT  TestDo
+=== RUN   TestDo/context_canceled
+=== PAUSE TestDo/context_canceled
+=== CONT  TestDo/context_canceled
+--- PASS: TestDo (0.00s)
+    --- PASS: TestDo/context_canceled (0.00s)
+=== RUN   TestDo
+=== PAUSE TestDo
+=== CONT  TestDo
+=== RUN   TestDo/context_canceled
+=== PAUSE TestDo/context_canceled
+=== CONT  TestDo/context_canceled
+--- PASS: TestDo (0.00s)
+    --- PASS: TestDo/context_canceled (0.00s)
+=== RUN   TestDo
+=== PAUSE TestDo
+=== CONT  TestDo
+=== RUN   TestDo/context_canceled
+=== PAUSE TestDo/context_canceled
+=== CONT  TestDo/context_canceled
+--- PASS: TestDo (0.00s)
+    --- PASS: TestDo/context_canceled (0.00s)
+=== RUN   TestDo
+=== PAUSE TestDo
+=== CONT  TestDo
+=== RUN   TestDo/context_canceled
+=== PAUSE TestDo/context_canceled
+=== CONT  TestDo/context_canceled
+--- PASS: TestDo (0.00s)
+    --- PASS: TestDo/context_canceled (0.00s)
+=== RUN   TestDo
+=== PAUSE TestDo
+=== CONT  TestDo
+=== RUN   TestDo/context_canceled
+=== PAUSE TestDo/context_canceled
+=== CONT  TestDo/context_canceled
+--- PASS: TestDo (0.00s)
+    --- PASS: TestDo/context_canceled (0.00s)
+=== RUN   TestDo
+=== PAUSE TestDo
+=== CONT  TestDo
+=== RUN   TestDo/context_canceled
+=== PAUSE TestDo/context_canceled
+=== CONT  TestDo/context_canceled
+--- PASS: TestDo (0.00s)
+    --- PASS: TestDo/context_canceled (0.00s)
+=== RUN   TestDo
+=== PAUSE TestDo
+=== CONT  TestDo
+=== RUN   TestDo/context_canceled
+=== PAUSE TestDo/context_canceled
+=== CONT  TestDo/context_canceled
+--- PASS: TestDo (0.00s)
+    --- PASS: TestDo/context_canceled (0.00s)
+PASS

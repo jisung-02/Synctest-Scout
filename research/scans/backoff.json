@@ -1,0 +1,22 @@
+{
+  "root": "backoff",
+  "test_files": 6,
+  "candidates": [
+    {
+      "file": "retry_test.go",
+      "line": 392,
+      "test": "TestRetryContextDeadline",
+      "status": "manual",
+      "signals": [
+        "context.WithDeadline"
+      ],
+      "reasons": [
+        "Module Go version is 1.23; patch requires an explicit Go >= 1.25 support decision."
+      ],
+      "notes": [
+        "Review transitive calls, package/global state, external goroutines, and wall-clock assumptions.",
+        "Clock measurements become virtual; confirm this matches the assertion's purpose."
+      ]
+    }
+  ]
+}

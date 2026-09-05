@@ -1,0 +1,5 @@
+--- FAIL: TestWithMaxDuration (0.00s)
+    backoff_test.go:443: should stop
+FAIL
+FAIL	github.com/sethvargo/go-retry	0.440s
+FAIL

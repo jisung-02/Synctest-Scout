@@ -1,0 +1,59 @@
+{
+  "root": "go-retry",
+  "test_files": 5,
+  "candidates": [
+    {
+      "file": "backoff_exponential_test.go",
+      "line": 120,
+      "test": "TestExponentialBackoff_ConcurrentOverflow",
+      "status": "review",
+      "signals": [
+        "time.After"
+      ],
+      "notes": [
+        "Review transitive calls, package/global state, external goroutines, and wall-clock assumptions.",
+        "Leading t.Parallel() stays outside the bubble."
+      ]
+    },
+    {
+      "file": "backoff_test.go",
+      "line": 404,
+      "test": "TestWithMaxDuration",
+      "status": "review",
+      "signals": [
+        "time.Sleep"
+      ],
+      "notes": [
+        "Review transitive calls, package/global state, external goroutines, and wall-clock assumptions.",
+        "Leading t.Parallel() stays outside the bubble."
+      ]
+    },
+    {
+      "file": "retry_test.go",
+      "line": 136,
+      "test": "TestDo/context_canceled",
+      "status": "review",
+      "signals": [
+        "context.WithTimeout"
+      ],
+      "notes": [
+        "Review transitive calls, package/global state, external goroutines, and wall-clock assumptions.",
+        "Leading t.Parallel() stays outside the bubble."
+      ]
+    },
+    {
+      "file": "retry_test.go",
+      "line": 153,
+      "test": "TestDo/deadline_exceeded",
+      "status": "review",
+      "signals": [
+        "context.WithTimeout"
+      ],
+      "notes": [
+        "Review transitive calls, package/global state, external goroutines, and wall-clock assumptions.",
+        "Leading t.Parallel() stays outside the bubble.",
+        "Clock measurements become virtual; confirm this matches the assertion's purpose."
+      ]
+    }
+  ]
+}

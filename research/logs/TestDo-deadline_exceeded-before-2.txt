@@ -1,0 +1,161 @@
+=== RUN   TestDo
+=== PAUSE TestDo
+=== CONT  TestDo
+=== RUN   TestDo/deadline_exceeded
+=== PAUSE TestDo/deadline_exceeded
+=== CONT  TestDo/deadline_exceeded
+--- PASS: TestDo (0.00s)
+    --- PASS: TestDo/deadline_exceeded (0.01s)
+=== RUN   TestDo
+=== PAUSE TestDo
+=== CONT  TestDo
+=== RUN   TestDo/deadline_exceeded
+=== PAUSE TestDo/deadline_exceeded
+=== CONT  TestDo/deadline_exceeded
+--- PASS: TestDo (0.00s)
+    --- PASS: TestDo/deadline_exceeded (0.01s)
+=== RUN   TestDo
+=== PAUSE TestDo
+=== CONT  TestDo
+=== RUN   TestDo/deadline_exceeded
+=== PAUSE TestDo/deadline_exceeded
+=== CONT  TestDo/deadline_exceeded
+--- PASS: TestDo (0.00s)
+    --- PASS: TestDo/deadline_exceeded (0.01s)
+=== RUN   TestDo
+=== PAUSE TestDo
+=== CONT  TestDo
+=== RUN   TestDo/deadline_exceeded
+=== PAUSE TestDo/deadline_exceeded
+=== CONT  TestDo/deadline_exceeded
+--- PASS: TestDo (0.00s)
+    --- PASS: TestDo/deadline_exceeded (0.01s)
+=== RUN   TestDo
+=== PAUSE TestDo
+=== CONT  TestDo
+=== RUN   TestDo/deadline_exceeded
+=== PAUSE TestDo/deadline_exceeded
+=== CONT  TestDo/deadline_exceeded
+--- PASS: TestDo (0.00s)
+    --- PASS: TestDo/deadline_exceeded (0.01s)
+=== RUN   TestDo
+=== PAUSE TestDo
+=== CONT  TestDo
+=== RUN   TestDo/deadline_exceeded
+=== PAUSE TestDo/deadline_exceeded
+=== CONT  TestDo/deadline_exceeded
+--- PASS: TestDo (0.00s)
+    --- PASS: TestDo/deadline_exceeded (0.01s)
+=== RUN   TestDo
+=== PAUSE TestDo
+=== CONT  TestDo
+=== RUN   TestDo/deadline_exceeded
+=== PAUSE TestDo/deadline_exceeded
+=== CONT  TestDo/deadline_exceeded
+--- PASS: TestDo (0.00s)
+    --- PASS: TestDo/deadline_exceeded (0.01s)
+=== RUN   TestDo
+=== PAUSE TestDo
+=== CONT  TestDo
+=== RUN   TestDo/deadline_exceeded
+=== PAUSE TestDo/deadline_exceeded
+=== CONT  TestDo/deadline_exceeded
+--- PASS: TestDo (0.00s)
+    --- PASS: TestDo/deadline_exceeded (0.01s)
+=== RUN   TestDo
+=== PAUSE TestDo
+=== CONT  TestDo
+=== RUN   TestDo/deadline_exceeded
+=== PAUSE TestDo/deadline_exceeded
+=== CONT  TestDo/deadline_exceeded
+--- PASS: TestDo (0.00s)
+    --- PASS: TestDo/deadline_exceeded (0.01s)
+=== RUN   TestDo
+=== PAUSE TestDo
+=== CONT  TestDo
+=== RUN   TestDo/deadline_exceeded
+=== PAUSE TestDo/deadline_exceeded
+=== CONT  TestDo/deadline_exceeded
+--- PASS: TestDo (0.00s)
+    --- PASS: TestDo/deadline_exceeded (0.01s)
+=== RUN   TestDo
+=== PAUSE TestDo
+=== CONT  TestDo
+=== RUN   TestDo/deadline_exceeded
+=== PAUSE TestDo/deadline_exceeded
+=== CONT  TestDo/deadline_exceeded
+--- PASS: TestDo (0.00s)
+    --- PASS: TestDo/deadline_exceeded (0.01s)
+=== RUN   TestDo
+=== PAUSE TestDo
+=== CONT  TestDo
+=== RUN   TestDo/deadline_exceeded
+=== PAUSE TestDo/deadline_exceeded
+=== CONT  TestDo/deadline_exceeded
+--- PASS: TestDo (0.00s)
+    --- PASS: TestDo/deadline_exceeded (0.01s)
+=== RUN   TestDo
+=== PAUSE TestDo
+=== CONT  TestDo
+=== RUN   TestDo/deadline_exceeded
+=== PAUSE TestDo/deadline_exceeded
+=== CONT  TestDo/deadline_exceeded
+--- PASS: TestDo (0.00s)
+    --- PASS: TestDo/deadline_exceeded (0.01s)
+=== RUN   TestDo
+=== PAUSE TestDo
+=== CONT  TestDo
+=== RUN   TestDo/deadline_exceeded
+=== PAUSE TestDo/deadline_exceeded
+=== CONT  TestDo/deadline_exceeded
+--- PASS: TestDo (0.00s)
+    --- PASS: TestDo/deadline_exceeded (0.01s)
+=== RUN   TestDo
+=== PAUSE TestDo
+=== CONT  TestDo
+=== RUN   TestDo/deadline_exceeded
+=== PAUSE TestDo/deadline_exceeded
+=== CONT  TestDo/deadline_exceeded
+--- PASS: TestDo (0.00s)
+    --- PASS: TestDo/deadline_exceeded (0.01s)
+=== RUN   TestDo
+=== PAUSE TestDo
+=== CONT  TestDo
+=== RUN   TestDo/deadline_exceeded
+=== PAUSE TestDo/deadline_exceeded
+=== CONT  TestDo/deadline_exceeded
+--- PASS: TestDo (0.00s)
+    --- PASS: TestDo/deadline_exceeded (0.01s)
+=== RUN   TestDo
+=== PAUSE TestDo
+=== CONT  TestDo
+=== RUN   TestDo/deadline_exceeded
+=== PAUSE TestDo/deadline_exceeded
+=== CONT  TestDo/deadline_exceeded
+--- PASS: TestDo (0.00s)
+    --- PASS: TestDo/deadline_exceeded (0.01s)
+=== RUN   TestDo
+=== PAUSE TestDo
+=== CONT  TestDo
+=== RUN   TestDo/deadline_exceeded
+=== PAUSE TestDo/deadline_exceeded
+=== CONT  TestDo/deadline_exceeded
+--- PASS: TestDo (0.00s)
+    --- PASS: TestDo/deadline_exceeded (0.01s)
+=== RUN   TestDo
+=== PAUSE TestDo
+=== CONT  TestDo
+=== RUN   TestDo/deadline_exceeded
+=== PAUSE TestDo/deadline_exceeded
+=== CONT  TestDo/deadline_exceeded
+--- PASS: TestDo (0.00s)
+    --- PASS: TestDo/deadline_exceeded (0.01s)
+=== RUN   TestDo
+=== PAUSE TestDo
+=== CONT  TestDo
+=== RUN   TestDo/deadline_exceeded
+=== PAUSE TestDo/deadline_exceeded
+=== CONT  TestDo/deadline_exceeded
+--- PASS: TestDo (0.00s)
+    --- PASS: TestDo/deadline_exceeded (0.01s)
+PASS

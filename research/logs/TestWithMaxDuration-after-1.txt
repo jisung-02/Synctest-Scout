@@ -1,0 +1,81 @@
+=== RUN   TestWithMaxDuration
+=== PAUSE TestWithMaxDuration
+=== CONT  TestWithMaxDuration
+--- PASS: TestWithMaxDuration (0.00s)
+=== RUN   TestWithMaxDuration
+=== PAUSE TestWithMaxDuration
+=== CONT  TestWithMaxDuration
+--- PASS: TestWithMaxDuration (0.00s)
+=== RUN   TestWithMaxDuration
+=== PAUSE TestWithMaxDuration
+=== CONT  TestWithMaxDuration
+--- PASS: TestWithMaxDuration (0.00s)
+=== RUN   TestWithMaxDuration
+=== PAUSE TestWithMaxDuration
+=== CONT  TestWithMaxDuration
+--- PASS: TestWithMaxDuration (0.00s)
+=== RUN   TestWithMaxDuration
+=== PAUSE TestWithMaxDuration
+=== CONT  TestWithMaxDuration
+--- PASS: TestWithMaxDuration (0.00s)
+=== RUN   TestWithMaxDuration
+=== PAUSE TestWithMaxDuration
+=== CONT  TestWithMaxDuration
+--- PASS: TestWithMaxDuration (0.00s)
+=== RUN   TestWithMaxDuration
+=== PAUSE TestWithMaxDuration
+=== CONT  TestWithMaxDuration
+--- PASS: TestWithMaxDuration (0.00s)
+=== RUN   TestWithMaxDuration
+=== PAUSE TestWithMaxDuration
+=== CONT  TestWithMaxDuration
+--- PASS: TestWithMaxDuration (0.00s)
+=== RUN   TestWithMaxDuration
+=== PAUSE TestWithMaxDuration
+=== CONT  TestWithMaxDuration
+--- PASS: TestWithMaxDuration (0.00s)
+=== RUN   TestWithMaxDuration
+=== PAUSE TestWithMaxDuration
+=== CONT  TestWithMaxDuration
+--- PASS: TestWithMaxDuration (0.00s)
+=== RUN   TestWithMaxDuration
+=== PAUSE TestWithMaxDuration
+=== CONT  TestWithMaxDuration
+--- PASS: TestWithMaxDuration (0.00s)
+=== RUN   TestWithMaxDuration
+=== PAUSE TestWithMaxDuration
+=== CONT  TestWithMaxDuration
+--- PASS: TestWithMaxDuration (0.00s)
+=== RUN   TestWithMaxDuration
+=== PAUSE TestWithMaxDuration
+=== CONT  TestWithMaxDuration
+--- PASS: TestWithMaxDuration (0.00s)
+=== RUN   TestWithMaxDuration
+=== PAUSE TestWithMaxDuration
+=== CONT  TestWithMaxDuration
+--- PASS: TestWithMaxDuration (0.00s)
+=== RUN   TestWithMaxDuration
+=== PAUSE TestWithMaxDuration
+=== CONT  TestWithMaxDuration
+--- PASS: TestWithMaxDuration (0.00s)
+=== RUN   TestWithMaxDuration
+=== PAUSE TestWithMaxDuration
+=== CONT  TestWithMaxDuration
+--- PASS: TestWithMaxDuration (0.00s)
+=== RUN   TestWithMaxDuration
+=== PAUSE TestWithMaxDuration
+=== CONT  TestWithMaxDuration
+--- PASS: TestWithMaxDuration (0.00s)
+=== RUN   TestWithMaxDuration
+=== PAUSE TestWithMaxDuration
+=== CONT  TestWithMaxDuration
+--- PASS: TestWithMaxDuration (0.00s)
+=== RUN   TestWithMaxDuration
+=== PAUSE TestWithMaxDuration
+=== CONT  TestWithMaxDuration
+--- PASS: TestWithMaxDuration (0.00s)
+=== RUN   TestWithMaxDuration
+=== PAUSE TestWithMaxDuration
+=== CONT  TestWithMaxDuration
+--- PASS: TestWithMaxDuration (0.00s)
+PASS

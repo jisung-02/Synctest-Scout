@@ -1,0 +1,6 @@
+/.research/
+/bin/
+/coverage/
+/dist/
+__pycache__/
+*.pyc

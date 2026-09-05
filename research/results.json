@@ -1,0 +1,104 @@
+{
+  "go_version": "go version go1.27.1 darwin/arm64",
+  "platform": "macOS-26.6.2-arm64-arm-64bit-Mach-O",
+  "utc_time": "2026-09-05T11:21:39Z",
+  "method": "Precompiled non-race test binaries; wall time includes process startup, excludes compilation; 20 repetitions per invocation, 3 trials per case, interleaved before/after.",
+  "repositories": {
+    "backoff": {
+      "url": "https://github.com/cenkalti/backoff.git",
+      "commit": "ffcfd8ab39e2910a1180ba0b7a02a52f0485adc9",
+      "test_files": 6,
+      "candidates": 1
+    },
+    "retry-go": {
+      "url": "https://github.com/avast/retry-go.git",
+      "commit": "5bccbfa9340dfe6609f4ecfce30c971e2756c796",
+      "test_files": 6,
+      "candidates": 1
+    },
+    "go-retry": {
+      "url": "https://github.com/sethvargo/go-retry.git",
+      "commit": "f6b3e1a9f1c599bf6fd42d01811a62fc4b9b7502",
+      "test_files": 5,
+      "candidates": 4
+    }
+  },
+  "measurements": {
+    "TestWithMaxDuration": {
+      "count_per_trial": 20,
+      "trials": 3,
+      "seconds": {
+        "before": [
+          5.573698415999388,
+          5.045497208000597,
+          5.0501984160000575
+        ],
+        "after": [
+          0.5577862920035841,
+          0.00641179100057343,
+          0.012595125001098495
+        ]
+      },
+      "median_batch_seconds": {
+        "before": 5.0501984160000575,
+        "after": 0.012595125001098495
+      },
+      "wall_time_ratio": 400.9645331475154
+    },
+    "TestDo/context_canceled": {
+      "count_per_trial": 20,
+      "trials": 3,
+      "seconds": {
+        "before": [
+          1.039073666997865,
+          1.0346843330007687,
+          1.0438415829994483
+        ],
+        "after": [
+          0.010275000000547152,
+          0.007900542001152644,
+          0.012463499999284977
+        ]
+      },
+      "median_batch_seconds": {
+        "before": 1.039073666997865,
+        "after": 0.010275000000547152
+      },
+      "wall_time_ratio": 101.12639094331227
+    },
+    "TestDo/deadline_exceeded": {
+      "count_per_trial": 20,
+      "trials": 3,
+      "seconds": {
+        "before": [
+          0.2267569169998751,
+          0.22371608300090884,
+          0.23033000000214088
+        ],
+        "after": [
+          0.013106124999467283,
+          0.017451625000830973,
+          0.007993499999429332
+        ]
+      },
+      "median_batch_seconds": {
+        "before": 0.2267569169998751,
+        "after": 0.013106124999467283
+      },
+      "wall_time_ratio": 17.30159883330061
+    }
+  },
+  "before_full_suite_race": {
+    "exit_code": 0,
+    "count": 10
+  },
+  "after_full_suite_race": {
+    "exit_code": 0,
+    "count": 10
+  },
+  "mutation": {
+    "change": "WithMaxDuration expiry <= 0 changed to < 0",
+    "detected": true,
+    "exit_code": 1
+  }
+}

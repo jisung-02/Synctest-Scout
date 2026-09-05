@@ -1,0 +1,21 @@
+{
+  "root": "retry-go",
+  "test_files": 6,
+  "candidates": [
+    {
+      "file": "retry_test.go",
+      "line": 518,
+      "test": "TestContext/timed out on retry infinte attempts - wraps context error with last retried function error",
+      "status": "manual",
+      "signals": [
+        "context.WithTimeout"
+      ],
+      "reasons": [
+        "Module Go version is 1.20; patch requires an explicit Go >= 1.25 support decision."
+      ],
+      "notes": [
+        "Review transitive calls, package/global state, external goroutines, and wall-clock assumptions."
+      ]
+    }
+  ]
+}
